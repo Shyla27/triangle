@@ -1,0 +1,59 @@
+body {
+background-image: url(aw.jpg);
+background-size: contain;
+text-align: left;
+
+}
+h1 {
+color:aqua;
+text-align: center;
+}
+h2 {
+text-align:;
+font-size:30px;
+color:aquamarine;
+}
+p {
+font-size: 25px;
+color: aqua;
+}
+button {
+font-size:30px;
+color:black;
+background-color:teal;
+padding:10px;
+border-radius: 100px;
+border:20px;
+float: left;
+}
+.contain {
+  float:left;
+  color:white;
+  text-align:center;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: lighter;
+  font-family: sans-serif;
+}
+input {
+size:40px;
+border-radius:300px;
+text-shadow: black;
+background-color: white;
+}
+.box {
+background-color: teal;
+background-size: contain;
+border: 1px;
+display: block;
+}
+img {
+float: center;
+}
+a {
+  color:white;
+  font-size:30px
+}
+.trial {
+  background-color: teal;
+}
