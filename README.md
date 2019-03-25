@@ -8,6 +8,13 @@ Triangle tracker is a school project. It's purpose is to differentiate the diffe
 * to list setup instructions
 * in a simple
 * easy-to-understand
+## BDD
+|Behaviour                  | Input       | Output              |
+|--------------------------:|:-----------:|:--------------------
+|Not a triangle             | a+b<c       | cannot form         
+|Triangle with equal sides  |a=b=c        | Equilateral triangle
+|Triangle with 2 equal sides| a+b b+c c+a | Isosceles triangle 
+|Triangle with no equal side| a!==b!==c   | Scalene triangle    
 ## Known Bugs
 i  didn't experience any major bugs.
 ##Resources
