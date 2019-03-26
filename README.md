@@ -1,5 +1,5 @@
 TRACKER
-#### An application that helps you know different types of triangles, 23/03/1998
+#### An application that helps you know different types of triangles, 26/03/1998
 #### By **SHYLA_B**
 ## Description
 Triangle tracker is a school project. It's purpose is to differentiate the differernt types of triangles by just keying the dimensions and then the application will tell you the type of triangle you're looking for.
